@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Glassgiant.com - JPEG / JPG Picture to ASCII Art Generator</title>
+<style>
+BODY, TD {font-family:monospace, Courier; font-size:8px; color:#000000; background-color:#FFFFFF}
+</style>
+</head>
+<body bgcolor = "FFFFFF">
+
+
+<b></b><br><br>
+Sorry, this file could not be opened.  Possible reasons:
+<ul>
+<li>The file size may be greater that 3 Mb.  The image you send must be less than that.
+<li>Your session may have expired.  In this case, please upload another image.
+</ul>
+If none of these steps resolves the problem, you could always try saving the image to your computer and using the &quot;From Your Computer&quot; option.  This can usually be done by right-clicking on the image and clicking Save or Save As...
+</body>
+</html>
